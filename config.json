@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".tiff"],
+    "Videos": [".mp4", ".mov", ".avi", ".mkv", ".wmv"],
+    "Music": [".mp3", ".wav", ".flac", ".aac", ".ogg"],
+    "Documents": [
+      ".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt",
+      ".xlsx", ".xls", ".csv", ".ppt", ".pptx"
+    ],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Programs": [".exe", ".msi", ".bat", ".cmd", ".sh", ".py"],
+    "System Files": [".ini", ".dll", ".sys", ".log"]
+  },
+  "options": {
+    "ignore_hidden_files": true,
+    "ignore_hidden_folders": true
+  }
+}
